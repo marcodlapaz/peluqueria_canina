@@ -1,0 +1,14 @@
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\Principal.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\ControladoraPersistencia.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\CargaDatos.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\ModificarDatos.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\IllegalOrphanException.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\PreexistingEntityException.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Mascota.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Duenio.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Controladora.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\VerDatos.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\PeluqueriaCanina.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\DuenioJpaController.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\MascotaJpaController.java
+D:\Archivos\Roadmap\Backend\TodoCode\PeluqueriaCanina\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\NonexistentEntityException.java
